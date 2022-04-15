@@ -1,0 +1,14 @@
+conservatives and liberals likely often talk about the same things
+
+but when news breaks, sometimes one side will ignore a story and act as if thing didn't happen
+
+using crfs trained on sequence of post titles, determine the likelihood a post is posted in liberal or conservative forum
+
+sources:
+https://arxiv.org/pdf/1607.02501.pdf
+
+https://nlp.stanford.edu/courses/cs224n/2009/fp/7.pdf
+
+##### shattering coefficient tells you how hard your problem is ######
+
+Pointwise mutual information paper: https://link.springer.com/content/pdf/10.3758/BRM.41.3.647.pdf
