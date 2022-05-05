@@ -1,0 +1,9 @@
+Harvesting the power of Mutual Information to find bias in your NLP dataset
+https://towardsdatascience.com/harvesting-the-power-of-mutual-information-to-find-bias-in-your-nlp-dataset-c172c0dddebe
+
+
+
+More data trumps smarter algorithms: 
+Comparing pointwise mutual information 
+with latent semantic analysis
+https://link.springer.com/content/pdf/10.3758/BRM.41.3.647.pdf

@@ -22,3 +22,10 @@ take the population of users looking at, slice by time
 take a look at how individual opinions change with time
 
 do one or the other
+
+dataset: https://www.kaggle.com/code/noname666666/liberal-vs-conservative-title-classification
+
+Pipeline, ColumnTransformer and FeatureUnion explained
+How to get features added to model
+https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f
+https://towardsdatascience.com/featureunion-columntransformer-pipeline-for-preprocessing-text-data-9dcb233dbcb6
